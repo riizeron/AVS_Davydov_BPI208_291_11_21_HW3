@@ -1,0 +1,5 @@
+Container is store 3 shapes:
+Complex: x = 2  y = 3, Real = 3.605551275463989
+Fraction: a = 5  b = 9, Real = 0.5555555555555556
+Fraction: a = 5  b = 180, Real = 5
+Summa of Perimeters  = 3.053702277006515
